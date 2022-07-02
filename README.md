@@ -14,7 +14,7 @@ A slight improvement is to disable `When switching to an application, switch to 
 
  * click on Calendar in the Dock
  * right-click the Dock icon -> Options -> Assign To -> This Desktop
- * but of course then Calendar will be stuck there forever, so after getting it here it's best just to unassing it again, ie.
+ * but of course then Calendar will be stuck there forever, so after getting it here it's best just to unassign it again, ie.
  * right-click the Dock icon -> Options -> Assign To -> None
 
 Still pretty cumbersome. This repo contains an Automator workflow that acts as a system service, and allows to perform all the clicking from the slight improvement above with a single keyboard shortcut.
