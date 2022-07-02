@@ -34,7 +34,8 @@ Still pretty cumbersome. This repo contains an Automator workflow that acts as a
 
 # Therefore
 
- * use at your own risk
+ * use at your own risk, no warranties
+ * MIT License
 
 # Sources that helped make this
 
