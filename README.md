@@ -36,3 +36,12 @@ Still pretty cumbersome. This repo contains an Automator workflow that acts as a
 
  * use at your own risk
 
+# Sources that helped make this
+
+ * https://stackoverflow.com/questions/2819807/accessing-dock-icon-right-click-menu-items-with-applescript
+ * https://apple.stackexchange.com/questions/171709/applescript-get-active-application
+ * https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/MakeaSystem-WideService.html
+ * https://apple.stackexchange.com/questions/134936/access-application-submenus-with-applescript
+ * https://apple.stackexchange.com/questions/340942/applescript-how-can-i-get-ui-elements-names-attributes-properties-classe
+
+Thanks Internet, this would have taken a lot longer otherwise!
