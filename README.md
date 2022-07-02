@@ -5,10 +5,10 @@ One thing bothered me for years in macOS:
  * I'm on desktop 3, e.g. surfing in Firefox
  * I see something that I want to make a calendar entry for, but Calendar is currently on desktop 1
  * to get it onto my desktop with from Firefox
-  * I need to switch to the Calendar desktop
-  * then bring up the Mission Control that allows dragging Calendar to desktop 3
-  * but hey I also have five other desktops with some tiny Firefox windows on it, and it's hard to tell where I was before 
-  * after a lot of dragging and guessing I'm finally there
+   * I need to switch to the Calendar desktop
+   * then bring up the Mission Control that allows dragging Calendar to desktop 3
+   * but hey I also have five other desktops with some tiny Firefox windows on it, and it's hard to tell where I was before 
+   * after a lot of dragging and guessing I'm finally there
 
 A slight improvement is to disable `When switching to an application, switch to a Space with open windows for the application` in Mission Control. Then I can:
 
