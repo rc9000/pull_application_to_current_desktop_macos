@@ -28,7 +28,8 @@ Still pretty cumbersome. This repo contains an Automator workflow that acts as a
 
 # However
 
- * the first time you do this for any application, it will not work since the app needs permission to click around in your dock.
+ * the first time you do this for an application, use the entry in the Services menu instead of the keyboard shortcut. This will show a popup with e.g. "Calendar" wants access to control "System Events", which needs to be confirmed
+ * also the first time you do this for any application, it will not work since the app needs permission to click around in your dock. An error regarding that matter is displayed.
  * this can be added in Security & Privacy -> Accessibility -> add e.g. Calendar there.
  * if somebody knows a better way to implement this, please let me know 
 
